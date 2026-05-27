@@ -1,0 +1,93 @@
+[
+  {
+    "type": "Hero",
+    "data": {
+      "image": "Uniescape.gif",
+      "title": "Uniescape",
+      "description": "",
+      "roles": [
+        "Producer",
+        "Game Designer",
+        "Level Designer"
+      ]
+    }
+  },
+  {
+    "type": "Technologies",
+    "data": {
+      "technologies": [
+        "Unity",
+        "Git Hub",
+        "Miro",
+        "Trello"
+      ]
+    }
+  },
+  {
+    "type": "MyRole",
+    "data": {
+      "content": "Falar sobre minhas responsabilidades em cada projeto.",
+      "variant": "default"
+    }
+  },
+  {
+    "type": "GenericSection",
+    "data": {
+      "title": "What is this game?",
+      "content": [
+        "Explicar o que é o jogo.",
+        "Explicar o que é o jogo."
+      ],
+      "icon": "Target"
+    }
+  },
+  {
+    "type": "Gallery",
+    "data": {
+      "images": [
+        "Lecture1.jpg",
+        "Lecture2.jpg",
+        "Lecture3.jpg"
+      ],
+      "title": "Uniescape Screenshots"
+    }
+  },
+  {
+    "type": "GenericSection",
+    "data": {
+      "title": "",
+      "content": [
+        "Text 1",
+        "Text 2",
+        "Text 3"
+      ],
+      "icon": ""
+    }
+  },
+  {
+    "type": "Videos",
+    "data": {
+      "videos": [
+        {
+          "videoId": "dQw4w9WgXcQ",
+          "title": "Video Name"
+        }
+      ],
+      "icon": "Wrench"
+    }
+  },
+  {
+    "type": "Challenges",
+    "data": {
+      "content": "O maior desafio foi integrar a experiência física com a digital de forma coesa...",
+      "icon": "Wrench"
+    }
+  },
+  {
+    "type": "Results",
+    "data": {
+      "content": "O jogo foi lançado com sucesso e recebeu feedback positivo dos usuários...",
+      "icon": "TrendingUp"
+    }
+  }
+]
