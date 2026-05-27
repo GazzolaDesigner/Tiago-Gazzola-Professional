@@ -5,7 +5,7 @@ import { componentTagger } from "lovable-tagger";
 
 export default defineConfig(({ mode }) => ({
   base: mode === "production"
-    ? "/Tiago-Gazzola-Portfolio/"
+    ? "/Tiago-Gazzola-Professional/"
     : "/",
   server: {
     host: "::",
