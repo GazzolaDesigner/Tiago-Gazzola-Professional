@@ -10,7 +10,7 @@ import NotFound from "./pages/NotFound";
 const queryClient = new QueryClient();
 
 const basename =
-  import.meta.env.PROD ? "/Tiago-Gazzola-Portfolio" : "/";
+  import.meta.env.PROD ? "/Tiago-Gazzola-Professional" : "/";
 
 const App = () => (
   <QueryClientProvider client={queryClient}>
