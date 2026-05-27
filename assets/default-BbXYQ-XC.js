@@ -1,0 +1,1 @@
+const e=[{type:"GenericSection",data:{title:"This page is under construction.",content:["I started creating my portfolio in January 2026, and it’s taking way longer than I expected. 😅","I’m writing each page little by little whenever I have some free time during my busy schedule. 📆"],icon:""}}];export{e as default};
